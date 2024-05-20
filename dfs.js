@@ -22,7 +22,7 @@ function dfs(graph, startNode) {
     return pathLength_;
     
     
-    // Комментарий
+    // Комментарий еще
     let graph = {
     A: ['B', 'C'],
     B: ['A', 'D', 'E'],
